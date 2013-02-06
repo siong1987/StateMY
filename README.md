@@ -41,7 +41,18 @@ Please notice that each character is corresponding to each state.  And, the char
 
 ## Demo
 
+You can check out a simple demo [here][2].
+
+##Resources
+
+[Free Online Font Converter](http://www.freefontconverter.com) - For converting SVG to TTF  
+[Font Squirrel](http://www.fontsquirrel.com/fontface/generator) - For converting TTF to web fonts (make sure you check 'no subsetting')  
+[Intridea Blog: How to Make Your Own Symbol Font](http://www.intridea.com/blog/2012/4/24/symbol-font) - A good starting place
+
 ##Credits
+
+Yee Siang
+[Malaysia SVG Map](http://pws.yeesiang.com/go/system/mod/blog/code/blank_malaysia_map)
 
 Ben Markowitz  
 [twitter](http://www.twitter.com/bpmarkowitz)  
@@ -55,3 +66,4 @@ Intridea
 MIT License. See LICENSE for details.
 
 [1]: https://github.com/intridea/stately
+[2]: http://siong1987.com/statemy
