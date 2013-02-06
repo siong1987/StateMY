@@ -39,7 +39,6 @@ ul.statemy {
 	float: left;
 	margin-left: -100%;
 	line-height: 100%;
-	-webkit-transition: all 1s ease-in;
 	position: relative;
 	left: 101%;
 	width: 100%;
